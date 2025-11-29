@@ -1,30 +1,26 @@
 {
-  "miniapp": {
-    "version": "1",
+  "frame": {
     "name": "Stranger Packs",
+    "version": "1",
     "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/e339328c-c8e8-49e6-bf1f-364dee4f7932-5LYqqyPS6m96aHK9TdbdVmrImkmhr3",
     "homeUrl": "https://voltpacks.xyz/",
-    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/e339328c-c8e8-49e6-bf1f-364dee4f7932-5LYqqyPS6m96aHK9TdbdVmrImkmhr3",
-    "buttonTitle": "Mint Stranger Cards",
     "splashImageUrl": "https://i.imgur.com/asA3dG6.png",
     "splashBackgroundColor": "#000000",
-    "tags": [
-      "mini-app",
-      "base",
-      "farcaster"
-    ],
     "primaryCategory": "entertainment",
-    "ogTitle": "Stranger Packs",
-    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/e339328c-c8e8-49e6-bf1f-364dee4f7932-5LYqqyPS6m96aHK9TdbdVmrImkmhr3"
-  },
-  "baseBuilder": {
-    "allowedAddresses": [
-      "0xa98FeB81794895160EefC5271475414632113954"
-    ]
+    "tags": [
+      "farcaster",
+      "mini app",
+      "base",
+      "nft",
+      "stranger things"
+    ],
+    "buttonTitle": "Mint Stranger Packs",
+    "subtitle": "Unlock mysterious artifacts from Hawkins",
+    "description": "Enter the Upside Down. Stranger Packs is an immersive NFT collection experience on Base. Open mystery packs, collect rare evidence files, and complete your Hawkins artifact collection with 80s synthwave atmosphere."
   },
   "accountAssociation": {
     "header": "eyJmaWQiOjM3NjE4MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDIwMDJBOTNlYzU4ZDI4ZEE3QzlEZDM1QTkwOTI1YTIxYUY1MDg0MDUifQ",
-    "payload": "eyJkb21haW4iOiJ2b2x0cGFja3MueHl6In0",
-    "signature": "ApyFPACOqZM4Wae6EWJo0+DpEoWKWfHldP62L/hC0D9S4/oKJPw/c3fdj7wvuQBBvTZClblxQiC4fRH3e85umBw="
+    "payload": "eyJkb21haW4iOiIifQ",
+    "signature": "PljKF7g/DBoBJjJLJDHER0fmsohlVJm6AEj2ZhdDEhB/+XoQX4n2TF9VIWdUmCpkaRxX3Ti3Ai0TELZ/8LTymhw="
   }
 }
