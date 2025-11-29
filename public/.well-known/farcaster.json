@@ -3,10 +3,10 @@
     "version": "1",
     "name": "Stranger Packs",
     "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/e339328c-c8e8-49e6-bf1f-364dee4f7932-5LYqqyPS6m96aHK9TdbdVmrImkmhr3",
-    "homeUrl": "https://saddle-possible-632.app.ohara.ai",
+    "homeUrl": "https://voltpacks.xyz/",
     "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/e339328c-c8e8-49e6-bf1f-364dee4f7932-5LYqqyPS6m96aHK9TdbdVmrImkmhr3",
     "buttonTitle": "Mint Stranger Cards",
-    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashImageUrl": "https://imgur.com/a/mVqgAJj",
     "splashBackgroundColor": "#ffffff",
     "tags": [
       "mini-app",
@@ -24,7 +24,7 @@
   },
   "accountAssociation": {
     "header": "eyJmaWQiOjM3NjE4MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDIwMDJBOTNlYzU4ZDI4ZEE3QzlEZDM1QTkwOTI1YTIxYUY1MDg0MDUifQ",
-    "payload": "eyJkb21haW4iOiJzYWRkbGUtcG9zc2libGUtNjMyLmFwcC5vaGFyYS5haSJ9",
-    "signature": "AcBInXxjyC0YrzXIGkhtnoVdTrh7hX+SJi+XwxGs7y1ww+h+q6YRLYDfP+dmLVStQnotcdKcG8D5Dal3OlpkWRw="
+    "payload": "eyJkb21haW4iOiJ2b2x0cGFja3MueHl6In0",
+    "signature": "ApyFPACOqZM4Wae6EWJo0+DpEoWKWfHldP62L/hC0D9S4/oKJPw/c3fdj7wvuQBBvTZClblxQiC4fRH3e85umBw="
   }
 }
